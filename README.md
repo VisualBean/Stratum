@@ -14,7 +14,8 @@ It is available on Firefox Add-ons: [Stratum](https://addons.mozilla.org/en-US/f
 - Icon support for Dashboard Icons slugs, `dashboard:` aliases, direct `https://` image URLs, `url:` image references, `data:image/` values, `emoji:` values, and `initials:` text icons.
 - Built-in customization tools for editing titles, URLs, layout, visibility, and icon values from the new tab page.
 
-<img width="1032" height="949" alt="image" src="https://github.com/user-attachments/assets/39a1808d-8ffd-40c3-95e7-f402ea125e8a" />
+<img width="1190" height="954" alt="image" src="https://github.com/user-attachments/assets/6fbf1858-6457-4e04-872b-e98ef0938955" />
+
 
 # Building the project
 
