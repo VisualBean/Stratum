@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Stratum",
+  "version": "0.2.0",
+  "description": "A dead-simple configurable browser startpage with columns, links, icons, search, and copy/paste config import/export.",
+  "permissions": ["storage", "clipboardWrite"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{02b4fd58-8864-4655-86ea-08b9aeadd19a}",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
+}

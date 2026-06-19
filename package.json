@@ -1,0 +1,27 @@
+{
+  "name": "stratum-dashboard",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "keywords": [
+    "dashboard",
+    "startpage"
+  ],
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc && vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "yaml": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3"
+  }
+}
